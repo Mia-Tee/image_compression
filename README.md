@@ -1,3 +1,8 @@
+## IMAGE COMPRESSION
+Author: Melody Tanyaradzwa Tsekeni
+LinkedIn: https://www.linkedin.com/in/melody-tanya-tsekeni-1a2b29119/
+Email: tanyatsekenie@gmail.com
+
 ## Project Overview
 The Image Compression Tool is a desktop application built with Python using the Tkinter library. This tool allows users to compress images while preserving a specified level of quality. It supports multiple image formats and allows users to choose the quality percentage before compressing the image, ensuring flexibility between file size and image quality.
 
